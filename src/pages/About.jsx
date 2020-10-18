@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const About = () => {
   return (
@@ -15,7 +15,7 @@ const About = () => {
         cornhole.
       </p>
     </section>
-  );
-};
+  )
+}
 
-export default About;
+export default About
